@@ -989,6 +989,45 @@
       "hasGreeting": false,
       "hasSignature": false,
       "isFavorite": false
+    },
+    {
+      "id": 105,
+      "cat": "Mensagens externas AD",
+      "cats": [
+        "Mensagens externas AD"
+      ],
+      "title": "Diferença de metragem entre projeto e CARD. Assunto Certificado de Acessibilidade.",
+      "html": "<p>Verificamos que a área objeto do pedido de <i>[[informar a área]]</i> apontada no projeto em CARD 12 - Projeto está divergente da área objeto do pedido lançada de <i>[[informar a área]]</i> no CARD 9 - Usos e Áreas.</p>\n\n<p>Assim, pedimos que revise as áreas informadas e devolva o protocolo após a correção.</p>",
+      "greetingMode": "off",
+      "hasGreeting": false,
+      "hasSignature": false,
+      "isFavorite": false
+    },
+    {
+      "id": 106,
+      "cat": "Mensagens externas AD",
+      "cats": [
+        "Mensagens externas AD"
+      ],
+      "title": "Diferença de metragem entre projeto e CARD. Assunto Certificado de Segurança.",
+      "html": "<p>Verificamos que a área total da edificação de <i>[[informar a área]]</i> apontada no projeto em CARD 13 - Projeto está divergente da área total da edificação de <i>[[informar a área]]</i> lançada no CARD 8 - Informações da edificação.</p>\n\n<p>Assim, pedimos que revise as áreas informadas e devolva o protocolo após a correção.</p>",
+      "greetingMode": "off",
+      "hasGreeting": false,
+      "hasSignature": false,
+      "isFavorite": false
+    },
+    {
+      "id": 107,
+      "cat": "Mensagens externas AD",
+      "cats": [
+        "Mensagens externas AD"
+      ],
+      "title": "Área total da edificação divergente. Assunto Autorização de Avanço de Grua.",
+      "html": "<p>Verificamos que a área total da edificação a ser executada, de <i>[[informar a área]]</i>, apontada no CARD 8 - Especificações do Pedido, não condiz com a área informada no Alvará de Execução aprovado, indicado no CARD 2 - Informações do Pedido.</p>\n\n<p>Assim, pedimos que revise as áreas informadas e devolva o protocolo após a correção.</p>",
+      "greetingMode": "off",
+      "hasGreeting": false,
+      "hasSignature": false,
+      "isFavorite": false
     }
   ]
 }
