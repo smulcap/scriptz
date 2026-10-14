@@ -1028,6 +1028,19 @@
       "hasGreeting": false,
       "hasSignature": false,
       "isFavorite": false
+    },
+    {
+      "id": 108,
+      "cat": "Encaminhamento",
+      "cats": [
+        "Encaminhamento"
+      ],
+      "title": "Encaminhamento para CAP/DPCI",
+      "html": "<p>Encaminhamos o pedido para análise do setor competente, CAP/DPCI.</p>\n\n<p>Pedimos que nas próximas solicitações para atendimento de comunique-se, solicitação de prazo ou pedido de recurso, o e-mail seja diretamente encaminhado para capdpci@prefeitura.sp.gov.br.</p>",
+      "greetingMode": "formal",
+      "hasGreeting": true,
+      "hasSignature": true,
+      "isFavorite": false
     }
   ]
 }
